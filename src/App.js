@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const Father = styled.div`
-  dispaly: flex;
+  display: flex;
 `;
 
 const BoxOne = styled.div`
